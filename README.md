@@ -4,6 +4,9 @@ Sabras is a comprehensive full-stack e-commerce application designed to facilita
 
 ![Home Page](https://github.com/user-attachments/assets/10823072-beab-4de1-8cf8-10ac79fd837b)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd98be4e-9031-4e1c-8f5b-fd9ff733e6bb" />
+
+
 ![Cart and Checkout page](https://github.com/user-attachments/assets/c1d90a2d-1d76-49a6-bb1a-9a03e0225248)
 - Admin Panel
 
